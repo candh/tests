@@ -4,7 +4,7 @@
   "description": "Just making this repo to see like how Travis CI and all that other stuff works. Nothing to see here. Go away!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node test.js",
     "start" : "node index.js"
   },
   "repository": {
