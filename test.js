@@ -1,9 +1,6 @@
-var test = {
-    name: "haider"
-}
+"use strict";
+// lmao what?
 
-function getMyName(prop) {
-    return test[prop];
-}
+let coolestPluginEver = require('./module.js')
 
-console.log(getMyName("name"));
+console.log(coolestPluginEver("EVIL RAP NEMESIS"));
