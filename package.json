@@ -1,0 +1,20 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "Just making this repo to see like how Travis CI and all that other stuff works. Nothing to see here. Go away!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/candh/tests.git"
+  },
+  "author": "Haider",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/candh/tests/issues"
+  },
+  "homepage": "https://github.com/candh/tests#readme"
+}
